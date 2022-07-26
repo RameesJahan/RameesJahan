@@ -1,6 +1,6 @@
 # Hey Folks! 👋
 
-I am Ramees Jahan and I'm a Software Developer (Android). I'm from India, living in Malappuram, Kerala and currently continueing my Bachelor's in Computer Application at SAFI Institute of Advanced Study.I already completed HTML and JAVA  course in [SoloLearn](https://www.sololearn.com/Profile/12749437/?ref=app). Contact me on [Mail](mailto:rameesjahan37@gmail.com)
+I am Ramees Jahan. I'm from India, living in Malappuram, Kerala and currently continueing my Bachelor's in Computer Application at SAFI Institute of Advanced Study.I already completed HTML and JAVA  course in [SoloLearn](https://www.sololearn.com/Profile/12749437/?ref=app). Contact me on [Mail](mailto:rameesjahan37@gmail.com)
 
 ### 🧑‍💻 Programming Languages and Softwares
 
