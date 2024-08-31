@@ -1,25 +1,54 @@
-# Hey Folks! 👋
+# 👋 Hi, I'm Ramees Jahan
 
-I am Ramees Jahan. A Web Developer enthusiast fresh out of the learning curve. Got the hang of React.js, Node.js, Bootstrap, and Tailwind CSS. Ready to dive into the coding adventure, bringing some fresh vibes to web development! <br>
-Contact me on [Mail](mailto:rameesjahan37@gmail.com)
+## 💻 Full Stack Developer | Mobile App Enthusiast
 
-### 🧑‍💻 Programming Languages and Softwares
+I'm a passionate developer with a strong foundation in web and mobile technologies. With a recently completed Bachelor's in Computer Applications, I love building innovative solutions and exploring new technologies.
 
-- HTML - [Acode Editor](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) | [VS Code](http://code.visualstudio.com/)
-- CSS - [Acode Editor](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) | [VS Code](http://code.visualstudio.com/)
-- JAVA - [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui) | [VS Code](http://code.visualstudio.com/)
-- JAVA SCRIPT - [Acode Editor](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) | [VS Code](http://code.visualstudio.com/)
-- PYTHON - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) | [VS Code](http://code.visualstudio.com/)
-- Android Development - [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui) | [Android Studio](http://developer.android.com/studio)
+### 🚀 Tech Stack
 
+- **Mobile:** React Native, Expo
+- **Frontend:** NextJS, ReactJS, JavaScript, HTML, CSS, Tailwind CSS, Shadcn
+- **Backend:** NodeJS, ExpressJS
+- **Database:** MongoDB, Firebase, SQL
+- **Others:** Git, Amazon AWS
 
-### 📱 Social media
+### 🌟 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/rameesjahan)
-- [Facebook](https://www.facebook.com/profile.php?id=100022148014436)
-- [Instagram](https://www.instagram.com/ramees.kzp/)
-- [Snap Chat](https://www.snapchat.com/add/ramees_kzp?share_id=raf5hUxpt08&locale=en-US)
+1. **[SOS Game](https://github.com/RameesJahan/SOS-Game-React-Native)**
+   - Multiplayer mobile version of the classic game
+   - Built with React Native, Expo, and Tailwind CSS
+     
+2. **[Pomodoro Timer App](https://github.com/RameesJahan/pomodoro-timer-react-native)**
+   - Android productivity tool using React Native and Expo
+   - Features: Customizable timers, background operation, push notifications
+     
+3. **[Chat App](https://github.com/RameesJahan/chelakkedo)**
+   - Real-time messaging app using ReactJS, Tailwind CSS, and Firebase
+   - Features: Firebase Authentication, Firestore backend
 
+4. **[E-Commerce API](https://github.com/RameesJahan/FillKart-Api)**
+   - Built with NodeJS, ExpressJS, and MongoDB
+   - Endpoints for product listing, details, categories, and filtering
+
+### 🎓 Education
+
+- Bachelor of Computer Applications (BCA)
+  SAFI Institute of Advanced Study, Kerala, India (Completed March 2024)
+
+### 📜 Certifications
+
+- React Bootcamp by Scaler
+- Industrial training on problem-solving using Deep Learning by MaiTexa
+
+### 🌐 Connect with me
+
+- [Portfolio Website](https://rameesjahan.github.io)
+- [LinkedIn](https://linkedin.com/in/rameesjahan)
+- Email: rameesjahanma@gmail.com
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
 <!---
 RameesJahan/RameesJahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
