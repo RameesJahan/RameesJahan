@@ -7,10 +7,13 @@ I'm a passionate developer with a strong foundation in web and mobile technologi
 ### 🚀 Tech Stack
 
 - **Mobile:** React Native, Expo
-- **Frontend:** NextJS, ReactJS, JavaScript, HTML, CSS, Tailwind CSS, Shadcn
+- **Web** NextJS, ReactJS, JavaScript, HTML, CSS, Tailwind CSS, Shadcn
 - **Backend:** NodeJS, ExpressJS
-- **Database:** MongoDB, Firebase, SQL
+- **Database:** MongoDB, Firebase, SQL, PostgreSQL
 - **Others:** Git, Amazon AWS
+
+### 💼 Experiance
+1. **React Native Developer at Woodenclouds (March 2025 - April 2026)**
 
 ### 🌟 Featured Projects
 
